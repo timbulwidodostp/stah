@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p stah Comparing survival distributions using average hazard Use stah With STATA 19
