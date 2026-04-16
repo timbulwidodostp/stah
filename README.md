@@ -1,6 +1,8 @@
 # stah
 Comparing survival distributions using average hazard Use stah With STATA 19
 
+https://www.youtube.com/watch?v=zozFovdbvKs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
